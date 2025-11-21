@@ -1,0 +1,21 @@
+Before analyzing any word, you MUST attempt to break it into: [root1]-[root2]-[case/ending] and test each component separately. For every word, identify component root or roots, possible clitics and particles. Identify emphatic particles, question markers, and other enclitics that may be fused with word forms and affect meaning interpretation.
+
+
+When interpreting the text, perform the systematic check of following options for words with unclear meaning
+1. MANDATORY root first vowel replacement check:
+(1) õ instead of e, o, ö or other way round; (2) ä instead of e. Do not check the vowels further in the word.
+a) First transcribe/analyze as written
+b) Then test the alternative variant (koht → test kõht, kõhe → test kohe)
+c) Compare both meanings against context
+d) Choose the variant that makes better semantic/contextual sense
+2. MANDATORY v-omission check for roots beginning with o, u, ö, ü in the text:
+a) First transcribe/analyze as written
+b) Then test the v-initial variant (öö → test vöö), and also consider vowel replacements with õ
+c) Compare both meanings against context
+d) Choose the variant that makes better semantic/contextual sense
+3. MANDATORY h-omission check for EVERY root beginning with vowel (a, e, i, o, u, õ, ä, ö, ü) or h in the text:
+a) First transcribe/analyze as written
+b) Then ALWAYS test the h-initial variant (õbe → test hõbe, allitama → test hallitama)
+d) Compare both meanings against context
+e) Choose the variant that makes better semantic/contextual sense
+Do not check the words beginning with consonants other than h.

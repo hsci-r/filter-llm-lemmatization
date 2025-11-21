@@ -1,0 +1,33 @@
+SPECIFICS OF RUNOSONG LANGUAGE
+You know that runosongs are in archaic poetic language which varies across the dialects with the main distinction between Northern and Southern Estonian. Dialect features are pronounced less prominently than in spoken dialect language, usage of archaic vs more modern dialect forms varies regionally.
+
+
+COMPOSITION OF WORD OF ROOTS, CLITICS, PARTICLES, ENDINGS
+When analysing component parts of the word:
+
+- consider that words can be composed of two or eventually more root words and endings
+
+- consider emphatic particles (-gi, -ki), question markers, South-Estonian confirming particle -ks, and other enclitics that may be fused with word forms and affect meaning interpretation.
+
+- consider that South Estonian negation particles -i (present time) and -s (past time) are merged at the end of the words, sometimes without any visible break, sometimes with hyphen. in South Estonian texts, you MUST check for every verb if it ends with negation particle (1) vowel + i - present time; (2) vowel + s - past time (not to confuse with South-Estonian confirming particle -ks).
+
+MORPHOLOGICAL ENDINGS
+Consider that runosongs in Estonian have:
+* different root forms for nominative and genitive case (for example kägu:käo).
+and considering that specific runosong register has:
+* archaic case paradigms with longer endings than modern Estonian (where various sound losses have taken place, for example, archaic "õhtuella", conteporary "õhtul")
+* often vowel at the end of nomen cases or in the middle of word that has been lost in the later standard language (for example, archaic "meesi", contemporary "mees", archaic “minuda”, contemporary “mind”)
+* longer morphological endings than standard language and various clitics (for example, -je ending in illative, -da ending in partitive, -maie ending in infinitive, sometimes reminiscences of possesive suffixes)
+* often diminutives with -kene or -kõnõ, -ke or -kõ or other variants.
+* translative case ending may be -ks, -ksi, -ksa, -s, -ssa, -ssi, or -st, -sta depending on dialect (not to confuse with very common South-Estonian confirming particle -ks)
+
+PHONOLOGICAL VARIATION
+In interpreting the word forms, account for historical phonological changes and variation. Consider:
+* vowel losses in unstressed syllables in modern standard and dialect forms, and varying preservation of respective vowels in runosong idiom
+* systematic vowel changes and variants in dialects (intermittent o~õ~e, for example medu~mõdu ‘mead’, vowel shifts, diphthongisation or heightening of long vowels, for example pea~pia~peä~pää ‘head’)
+* systematic consonant changes and variants (strengthening or weakening or loss of k, p, t, g, b, d, j between or next to vowels)
+* different consonant gradation patterns
+* sound changes that may obscure root identification
+* vowel harmony in some dialects
+* frequent word-initial h-omission before vowel in runosongs
+* occasional word-initial v-omission before o, ö, u, ü.

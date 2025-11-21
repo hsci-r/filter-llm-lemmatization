@@ -1,0 +1,3 @@
+# BACKGROUND INFORMATION
+
+This is a text from the Estonian corpus of runosongs. The corpus includes texts in local variants of Northern and Southern Estonian dialects, mostly in specific poetic archaic runosong idiom. It also includes some texts other than runosongs.

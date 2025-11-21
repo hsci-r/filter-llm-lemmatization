@@ -1,0 +1,70 @@
+{
+    "system": "../prompts/system/main_system.txt",
+    "steps": [
+	{
+	    "name": "translation",
+	    "task_prompts": [
+		"../prompts/context/general_{lang}.txt",
+		"../prompts/context/cultural.txt",
+		"../prompts/context/poetic.txt",
+		"../prompts/context/linguistic_{lang}.txt",
+		"../prompts/context/check_{lang}.txt",
+		"../prompts/task/translation.txt",
+		"../prompts/format/translation_format.txt",
+		"../prompts/input/input.txt"
+	    ],
+	    "chunking": {
+		"chunk_notice": "../prompts/connectors/chunk_notice.txt"
+	    },
+	    "validation": {
+		"mode": "verse_exact",
+		"min_table_cols": 3
+	    },
+	    "prev_format": "table_markdown"
+	},
+	{
+	    "name": "translation_fix",
+	    "task_prompts": [
+		"../prompts/context/general_{lang}.txt",
+		"../prompts/context/cultural.txt",
+		"../prompts/context/poetic.txt",
+		"../prompts/context/linguistic_{lang}.txt",
+		"../prompts/context/check_{lang}.txt",
+		"../prompts/task/use_prev_translation_for_fix.txt",
+		"../prompts/format/translation_format.txt",
+	        "../prompts/input/input.txt",
+		"../prompts/input/prev.txt"
+      ],
+      "chunking": {
+        "chunk_notice": "../prompts/connectors/chunk_notice.txt"
+      },
+      "validation": {
+        "mode": "verse_exact",
+        "min_table_cols": 3
+      },
+      "prev_format": "table_markdown" 
+    },
+	{
+	    "name": "table",
+	    "task_prompts": [
+		"../prompts/context/general_{lang}.txt",
+		"../prompts/context/cultural.txt",
+		"../prompts/context/poetic.txt",
+		"../prompts/context/linguistic_{lang}.txt",
+		"../prompts/context/check_{lang}.txt",
+		"../prompts/connectors/use_prev_translation.txt",
+		"../prompts/input/input.txt",
+		"../prompts/input/prev.txt",
+		"../prompts/format/table_format.txt",
+		"../prompts/task/table_{lang}.txt"
+	    ],
+	    "chunking": {
+		"chunk_notice": "../prompts/connectors/chunk_notice.txt"
+	    },
+	    "validation": {
+		"enforce_first_column": true,
+		"min_table_cols": 7
+	    }
+	}
+    ]
+}

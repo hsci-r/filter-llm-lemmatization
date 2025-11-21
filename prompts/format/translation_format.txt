@@ -1,0 +1,5 @@
+Use this format:
+
+| original verse | comments | English translation |
+|--------------|---------|---------------------|------------------------|------------------|----------------|-------------------|
+[verse as in the text] | [translation notes] | [English equivalent] |

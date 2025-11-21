@@ -1,0 +1,1 @@
+Detect if the song mostly adheres to the Southern or Northern Estonian dialect. Consider systematic morphological, phonological, lexical dialect features. Use all the knowledge you have on Estonian dialects and language history.

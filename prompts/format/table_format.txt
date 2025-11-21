@@ -1,0 +1,4 @@
+Create a single word-by-word analysis table with this format:
+| original form | comment | English translation | normalized orthography | lemma (original) | lemma (modern) | etymological root |
+|--------------|---------|---------------------|------------------------|------------------|----------------|-------------------|
+| [Word as in text] | [Translation notes] | [English equivalent] | [Modern spelling] | [Basic form in original] | [Modern language lemma] | [Etymological root(s)] |

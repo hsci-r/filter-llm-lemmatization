@@ -1,0 +1,1 @@
+The poem is too long, so you will process it in chunks. I will tell you which words to process for each chunk. Follow the per-chunk instruction exactly and ensure the FIRST COLUMN matches the given word sequence.

@@ -1,0 +1,41 @@
+#ANALYSIS STEPS
+
+Considering all the information given above on runosong and all your knowledge on Finnic dialects
+* consider systematic morphological, phonological, lexical dialect features in the followng analysis
+* analyse the meaning and composition of the whole poem considering the specifics of runosong introduced above
+
+## Root words composition
+* before analyzing any word, you MUST attempt to break it into: [root1]-[root2]-[case/ending] and test each component separately.
+* test actively alternative decomposition possibilities, consider metaphorical/transferred meanings, ensure word interpretations align with the overall theme and context of the verse/motif.
+* account for historical phonological changes and the alternative phonological variants as specified above
+
+
+When interpreting the text, perform the systematic check of following options for words with unclear meaning
+1. MANDATORY root first vowel replacement check:
+(1) õ instead of e, o, ö or other way round; (2) ä instead of e. Do not check the vowels further in the word.
+a) First transcribe/analyze as written
+b) Then test the alternative variant (koht → test kõht, kõhe → test kohe)
+c) Compare both meanings against context
+d) Choose the variant that makes better semantic/contextual sense
+2. MANDATORY v-omission check for roots beginning with o, u, ö, ü in the text:
+a) First transcribe/analyze as written
+b) Then test the v-initial variant (öö → test vöö), and also consider vowel replacements with õ
+c) Compare both meanings against context
+d) Choose the variant that makes better semantic/contextual sense
+3. MANDATORY h-omission check for EVERY root beginning with vowel (a, e, i, o, u, õ, ä, ö, ü) or h in the text:
+a) First transcribe/analyze as written
+b) Then ALWAYS test the h-initial variant (õbe → test hõbe, allitama → test hallitama)
+d) Compare both meanings against context
+e) Choose the variant that makes better semantic/contextual sense
+Do not check the words beginning with consonants other than h.
+
+
+ ## Word endings
+* strip and analyse morphological endings systematically
+* identify clitics and particles: recognize emphatic particles, question markers, and other enclitics that may be fused with word forms and affect meaning interpretation
+
+## General alternatives check
+Systematic archaic-contemporary form checking. Test multiple phonological and morphological analyses: For each word, systematically try several possible root + affix + morphological endings combinations and phonological variants before settling on meaning, actively compare against contemporary Finnish to identify archaic features. Use motif-level meaning to guide individual word interpretation.
+
+Use parallel line structures for verification. Check that interpretations in parallel lines create coherent semantic fields. Use parallel structures to verify interpretations - if one line mentions herding, parallel lines likely continue the herding theme.
+

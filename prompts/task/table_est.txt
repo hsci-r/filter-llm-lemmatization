@@ -1,0 +1,26 @@
+Analyze the provided runosong text and translation to create a comprehensive word-by-word analysis table.
+
+# ANALYSIS GUIDELINES
+
+For each word in the original text:
+- The "original form" column should use the exact word from the original language text
+- Add helpful comments about interpretation challenges or linguistic features in the "comment" column
+
+## REFRAINS
+- Detect if the song contains refrain words at the end or in the middle of each line: mark these with [refrain] in "comment" column.
+- Detect if the song contains verse-length refrains: mark these with [refrain] in "comment" column.
+
+- In "English translation," provide the best English equivalent for this specific word based on the translation - main word form that can serve as a keyword entry in English dictionary (nominative singular, present tense infinitive with to, no prefixes nor modalities), give only translation of the main word form, do NOT add information what is given with morphological endings
+- For "lemma (original)," provide the basic form in the dialect of the text (for nouns: nominative singular, for verbs: present tense infinitive, use forms with -ma or -me or -mä ending & NOT -da/-ta ending) with original phonological peculiarities, with derivational suffixes, without morphological endings
+- For "lemma (modern)," give the equivalent of the same etymological stem in standard phonology, that can serve as a keyword entry to standard Estonian dictionary with derivational suffixes, without morphological endings, do NOT separate compounds into parts, do NOT change etymological stems.
+- For "etymological stem," include the stem word(s), i.e. main word forms (in case of verbs, ma-infinitive NOT da-infinitive) that would serve as dictionary entries in ETY, from the eki.ee site), remove derivational suffixes, separate multiple possibilities with commas and compound components with &
+
+# IMPORTANT NOTES
+
+1. Focus ONLY on creating the required tables. Do not include any other tables, dialect identification, or additional commentary.
+2. Include all words from the original text in your analysis, even particles and function words.
+3. Be consistent in your analysis throughout the table.
+4. Use the provided translation to inform your analysis, but focus on an accurate word-by-word breakdown.
+5. For words that are difficult to analyze, provide your best linguistic assessment based on context and comparative Finnic linguistics.
+
+Begin your analysis by examining the original text and its translation, then create the word-by-word analysis table as specified above.

@@ -1,0 +1,3 @@
+# BACKGROUND INFORMATION
+
+This is a text from the Finnish corpus of runosongs. The corpus includes texts in local variants of 1) Western, Eastern and South-Western Finnish (including Ingrian-Finn), 2) Viena, South and Livvi (Olonets) Karelian, Ludic, Veps, 3) Hevaa and Soikkola Ingrian, and 4) Votic. The corpus may also include some texts in dialectal Swedish or Sami, and some texts other than runosongs.

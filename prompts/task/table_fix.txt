@@ -1,0 +1,16 @@
+You will see:
+1) The ORIGINAL POEM text.
+2) The PREVIOUS WORD-BY-WORD TABLE — this is what you will correct.
+
+Task: Use the ORIGINAL POEM and to correct the PREVIOUS WORD-BY-WORD TABLE.
+- Fix any errors in columns (comment, English translation, normalized orthography, lemma (original), lemma (modern), etymological root).
+- Ensure every original token is present, in order, one token per row.
+- Keep the same header and column order.
+- Do NOT add any rows that are not in the poem; do NOT reorder.
+- Fill every cell
+- Maintain Markdown table formatting.
+
+STRICT REQUIREMENTS:
+- Keep the exact header and column order.
+- One row per original token, in order.
+- No extra commentary or sections; output only the Markdown table.

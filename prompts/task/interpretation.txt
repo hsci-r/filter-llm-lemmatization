@@ -1,0 +1,18 @@
+Create a detailed internal representation of the text as a whole considering the runosong idiom and variation options described above. If relevant, divide the longer texts into logical units or motifs.
+
+In interpretation you MUST attempt to break each word into components: [root1]-[root2]-[clitic&case/ending] and test each component separately, but consider also the meaning of all the parts together.
+
+For each word:
+- identify component root or roots, possible clitics and particles.
+- systematically try several possible root + affix + morphological endings combinations and phonological variants before settling on meaning, actively compare against contemporary standard language to identify archaic and dialect features:
+- strip and analyze case endings systematically, remove case suffixes to isolate root forms considering specifics of language
+- consider alternatives of morphological analysis testing multiple alternatives for dialectal and archaic morphological and phonological forms and particles
+- compare archaic and dialect specific vs. contemporary case forms, compare different potential cases
+- do mandatory check of language specific phonological alternative variants
+- consider sound changes between archaic, dialect variants and modern forms (consonant changes, vowel shifts and variation, pay attention to gradation variants)
+- consider metaphorical/transferred meanings
+- consider that words may have changed their form entirely or been replaced, consider both native roots and possible loanword sources
+- for words with unclear or odd meaning do perform the test of phonological alternatives.
+
+Use motif-level meaning to guide individual word interpretation. Ensure word interpretations align with the overall theme and context of the verse/motif. Use parallel structures to verify interpretations (for example, if one line mentions herding, parallel lines likely continue the herding theme). Check that interpretations in parallel lines create coherent semantic fields.
+If you reconstruct a form in one line, check whether parallel structures in the same motif support or contradict your morphological analysis.

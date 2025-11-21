@@ -1,0 +1,24 @@
+SPECIFICS OF RUNOSONG LANGUAGE
+You know that runosongs are in archaic poetic language which varies across the dialects. Dialect features are pronounced less prominently than in spoken dialect language, usage of archaic vs more modern dialect forms varies regionally.
+
+COMPOSITION OF WORD OF ROOTS, CLITICS, PARTICLES, ENDINGS
+Consider that words can be composed of two or eventually more root words and endings.
+
+MORPHOLOGICAL ENDINGS
+Strip and analyze case endings systematically: Remove case suffixes to isolate root forms, considering that runosongs have:
+* different root forms for nominative and genitive case (for example käki:käen).
+and considering that specific runosong register has:
+* archaic case paradigms with longer endings than modern Finnish, Karelian or Ingrian (where various sound losses have taken place)
+* often vowel at the end of nominative cases or in the middle of word that has been lost in the later standard or spoken language (for example juurillehen instead of juurille)
+* longer morphological endings than standard language and various clitics (for example juoksemahan or juoksemahe instead of juoksemaan)
+* often diminutives like -nen, ne, or -ni, or other variants.
+
+PHONOLOGICAL VARIATION
+In interpreting the word forms, account for historical phonological changes and variation. Consider:
+* vowel losses in unstressed syllables in modern standard and dialect forms, and varying preservation of respective vowels in runosong idiom
+* systematic vowel changes and variants in dialects (vowel shifts, diphthongisation or heightening of long vowels, for example piä~peä~pää ‘head’, moa~mua~maa ‘earth’)
+* systematic consonant changes and variants (strengthening or weakening or loss of k, p, t, g, b, d, j between or next to vowels)
+* different consonant gradation patterns
+* sound changes that may obscure root identification
+* vowel harmony in some dialects
+* frequent word-initial h-omission before vowel in runosongs

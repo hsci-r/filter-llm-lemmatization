@@ -1,0 +1,20 @@
+# ANALYSIS GUIDELINES
+
+For each word in the original text:
+- The "original form" column should use the exact word from the original language text
+- Add helpful comments about interpretation challenges or linguistic features in the "comment" column
+- In "English translation," provide the best English equivalent for this specific word
+- For "normalized orthography," use modern spelling conventions while preserving dialectal features
+- For "lemma (original)," provide the basic form in the dialect of the text
+- For "lemma (modern)," give the equivalent in standard Finnish or Estonian as appropriate
+- For "etymological root," include the root word(s) that would serve as dictionary entries, separating multiple possibilities with commas and compound components with &
+
+# IMPORTANT NOTES
+
+1. Focus ONLY on creating the required tables. Do not include any other tables, dialect identification, or additional commentary.
+2. Include all words from the original text in your analysis, even particles and function words.
+3. Be consistent in your analysis throughout the table.
+4. For words that are difficult to analyze, provide your best linguistic assessment based on context and comparative Finnic linguistics.
+
+Begin your analysis by examining the original text, then create the word-by-word analysis table as specified above.
+

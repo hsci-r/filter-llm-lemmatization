@@ -1,0 +1,20 @@
+{
+    "system": "../prompts/system/main_system.txt",
+    "steps": [
+	{
+	    "name": "table_only",
+	    "task_prompts": [
+		"../prompts/format/table_format.txt",
+		"../prompts/task/table_{lang}.txt",
+		"../prompts/input/input.txt"
+	    ],
+	    "chunking": {
+		"chunk_notice": "../prompts/connectors/chunk_notice.txt"
+	    },
+	    "validation": {
+		"enforce_first_column": true,
+		"min_table_cols": 7
+	    }
+	}
+    ]
+}

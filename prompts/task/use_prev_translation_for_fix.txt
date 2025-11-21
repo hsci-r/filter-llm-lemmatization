@@ -1,0 +1,14 @@
+You will see:
+1) The ORIGINAL POEM text.
+2) The PREVIOUS TRANSLATION TABLE, produced in the prior step.
+
+Task: Carefully compare the ORIGINAL POEM and the PREVIOUS TRANSLATION.
+Revise the translation so that:
+- Each original verse maps 1:1 to its translation row.
+- Terminology is consistent; names and grammatical particles are handled consistently.
+- Register and idiom reflect Finnic context where appropriate.
+- If a line is ambiguous, prefer the most literal reading unless context strongly supports an idiomatic choice.
+- Fix mistranslations, omissions, inconsistencies, and formatting issues.
+- Preserve the SAME TABLE STRUCTURE and column order used before (3+ columns).
+- Include ALL lines/verses in the SAME order.
+- Do NOT add commentary outside the table.
